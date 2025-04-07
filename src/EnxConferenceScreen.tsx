@@ -21,7 +21,7 @@ import {
   EnxStream,
   EnxPlayerView,
   EnxToolBarView,
-} from 'smf-rtc-react-native';
+} from 'sfm-rtc-react-native';
 import axios from 'axios';
 import {BackHandler} from 'react-native';
 

@@ -21,7 +21,7 @@
     "react-native-reanimated": "^3.17.1",
     "react-native-safe-area-context": "^5.3.0",
     "react-native-screens": "^4.9.2",
-    "smf-rtc-react-native": "^1.0.1"
+    "sfm-rtc-react-native": "^1.0.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
