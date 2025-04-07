@@ -3,7 +3,7 @@ The sample react-native App demonstrates the use of SmartFloMeet platform Server
 
 This App creates a virtual Room on the fly hosted on the SmartFloMeet platform using REST calls and uses the Room credentials (i.e. Room Id) to connect to the virtual Room as a Moderator or Participant using a mobile client. The same Room credentials can be shared with others to join the same virtual Room to carry out an RTC (Real-Time Communication) session.
 
-SmartFloMeet Developer Center: https://developer.enablex.io/
+SmartFloMeet Developer Center: [https://portal.smartflomeet.ttns.in/]
 
 ## 1. How to get started
 
